@@ -4,8 +4,8 @@
 
 <p align="center">
   <a style="padding: 10px;" href="https://github.com/sonbear"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/sonbear?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-   <a href="https://github.com/sonbear"><img alt="views" title="Github views" src="https://img.shields.io/github/stars/sonbear
-   "/></a>
+   <!-- <a href="https://github.com/sonbear"><img alt="stars" title="Github stars" src="https://img.shields.io/github/stars/sonbear
+   "/></a> -->
 </p>
 
 ## 📖 About me
@@ -94,7 +94,7 @@
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>
             </td>
             <td><a href="#"><img alt="Git" title="Git" height="28px"
-                        src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAMFBMVEVHcEz0TCf5TijxSyb1TSf5TifrSSX2TSf0TCf2TSf6TijrSSX0TCf4TSf7TyjsSSU79qcKAAAADHRSTlMA4e4iR1YQO820ZICAJSLHAAAA6ElEQVQokXWSWRLEIAhEAfdE9P63HcDSLGO6kvy8NNIIwE0+Zw8fCtQahW/2SQ+DDTc0+En/vYEwwdH7jiZmFhpdMXN6+FiVHYAbpcO9pkFUmF/nBmSuVd7z6nnSgEqEcY3RPxMpEypP6zGK48g4vYmqSZ0CO3pwo2dKMH36UcglAkTLi5DrFPOA2rPBLMEWHc56upGH5C+Py2qQKyI3bmhXu6hGsVCNJ7tolyGcnce01kr4ca7NNhuj27okgzZbZK38uBZntEh8M7rXhVrl3nWMlOClKxFu1nPSHZt0z0Yi+lx5V8qjzx+XBhDROe95mQAAAABJRU5ErkJggg==" /></a>
+                        src="https://victorroblesweb.es/wp-content/uploads/2018/04/git.png" /></a>
             </td>
         </tr>
         <tr>
